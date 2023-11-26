@@ -105,7 +105,7 @@ main {
 section {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 5px;
+  
 }
 section h2 {
     grid-column: 1 / -1;
@@ -121,7 +121,7 @@ section img {
     position: relative;
 }
 .item-section p {
-    font-size: 1.2em;
+    font-size: 1em;
     padding: 10px;
     position: absolute;
     color: white;
