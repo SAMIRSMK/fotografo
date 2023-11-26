@@ -1,5 +1,9 @@
 @charset "UTF-8";
 @media screen and (min-width: 800px) {
+  .capa img {
+    box-shadow: inset 10px 3px 5px 0px rgba(0, 0, 0, 0);
+    width: 100%;
+  }
   main {
     display: grid;
     grid-template-columns: 1fr 1fr;

@@ -67,8 +67,11 @@ menu .butao-header {
 }
 .capa img {
   box-shadow: inset 10px 3px 5px 0px rgba(0, 0, 0, 0);
-  width: 100%;
+  width: 150%;
 }
+
+
+
 
 /* main */
 main {
